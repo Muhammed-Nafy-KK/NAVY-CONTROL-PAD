@@ -1,0 +1,32 @@
+{
+  "board": {
+    "width_mm": 95,
+    "height_mm": 125,
+    "status": "proposed"
+  },
+  "switches": {
+    "count": 12,
+    "row_count": 3,
+    "column_count": 4,
+    "pitch_mm": 19.05,
+    "placement_csv": "switch-placement.csv",
+    "footprint": "MX-compatible 3-pin, exact vendor geometry unverified"
+  },
+  "mcp23017_module": {
+    "envelope_mm": [
+      31,
+      20,
+      7.14
+    ],
+    "pin_pitch_mm": 2.54,
+    "header_row_spacing_mm": null,
+    "header_hole_count_per_side": null,
+    "header_to_edge_offset_mm": null,
+    "placement": "lower PCB region; final coordinates blocked pending header geometry"
+  },
+  "display": {
+    "model": "DHR55146D",
+    "mounting": "separate enclosure module"
+  },
+  "manufacturing_release": false
+}

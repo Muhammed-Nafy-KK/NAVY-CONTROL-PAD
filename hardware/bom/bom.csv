@@ -1,0 +1,10 @@
+Ref,Qty,Value/Part,Footprint status,Notes
+U1,1,MCP23017,TBD package,Address 0x20; choose DIP-28 or SOIC-28 to match purchased IC
+C1,1,100nF ceramic,TBD,Place close to U1 VDD/VSS
+R1,1,10kΩ,TBD,MCP23017 RESET pull-up to 3V3
+D1-D12,12,1N4148,TBD package,Stripe/cathode faces row side
+K1-K12,12,3-pin red linear mechanical switch,PROVISIONAL,Measure exact model before footprint release
+J1,1,CrowPanel external I2C connector,TBD,Do not assign pin order until official schematic checked
+J2,1,UART expansion connector,TBD,Pin order to be defined and silkscreened after interface choice
+J3,1,IR expansion connector,TBD,3V3/GND/TX/RX or discrete IR-driver interface; final pinout pending
+H1-H4,4,Mounting holes,TBD,Board/enclosure dimensions pending

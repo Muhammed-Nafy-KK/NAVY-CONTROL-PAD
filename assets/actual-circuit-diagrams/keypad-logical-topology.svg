@@ -1,0 +1,127 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640">
+<rect width="1200" height="640" fill="#101820"/>
+<text x="40" y="48" fill="#ffffff" font-family="Arial" font-size="28" font-weight="bold">NAVY CONTROL PAD — 3×4 diode keypad (logical topology)</text>
+<text x="40" y="80" fill="#b8c7d9" font-family="Arial" font-size="16">Diode anode at column; striped cathode at row. Logical net map, not a PCB layout.</text>
+<line x1="190" y1="130" x2="190" y2="550" stroke="#55c2ff" stroke-width="3"/>
+<text x="190" y="120" fill="#55c2ff" text-anchor="middle" font-family="Arial" font-size="18">C1 / GPA4</text>
+<line x1="430" y1="130" x2="430" y2="550" stroke="#55c2ff" stroke-width="3"/>
+<text x="430" y="120" fill="#55c2ff" text-anchor="middle" font-family="Arial" font-size="18">C2 / GPA5</text>
+<line x1="670" y1="130" x2="670" y2="550" stroke="#55c2ff" stroke-width="3"/>
+<text x="670" y="120" fill="#55c2ff" text-anchor="middle" font-family="Arial" font-size="18">C3 / GPA6</text>
+<line x1="910" y1="130" x2="910" y2="550" stroke="#55c2ff" stroke-width="3"/>
+<text x="910" y="120" fill="#55c2ff" text-anchor="middle" font-family="Arial" font-size="18">C4 / GPA7</text>
+<line x1="110" y1="260" x2="1050" y2="260" stroke="#ffca70" stroke-width="3"/>
+<text x="40" y="266" fill="#ffca70" font-family="Arial" font-size="18">R1 / GPA0</text>
+<circle cx="190" cy="205" r="5" fill="#55c2ff"/>
+<line x1="190" y1="205" x2="225" y2="205" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="225,192 225,218 248,205" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="252" y1="190" x2="252" y2="220" stroke="#ff7777" stroke-width="4"/>
+<line x1="252" y1="205" x2="290" y2="205" stroke="#ffffff" stroke-width="2"/>
+<rect x="290" y="188" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="320" y="211" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K1</text>
+<line x1="350" y1="205" x2="350" y2="260" stroke="#ffca70" stroke-width="3"/>
+<text x="235" y="181" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D1</text>
+<circle cx="430" cy="205" r="5" fill="#55c2ff"/>
+<line x1="430" y1="205" x2="465" y2="205" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="465,192 465,218 488,205" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="492" y1="190" x2="492" y2="220" stroke="#ff7777" stroke-width="4"/>
+<line x1="492" y1="205" x2="530" y2="205" stroke="#ffffff" stroke-width="2"/>
+<rect x="530" y="188" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="560" y="211" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K2</text>
+<line x1="590" y1="205" x2="590" y2="260" stroke="#ffca70" stroke-width="3"/>
+<text x="475" y="181" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D2</text>
+<circle cx="670" cy="205" r="5" fill="#55c2ff"/>
+<line x1="670" y1="205" x2="705" y2="205" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="705,192 705,218 728,205" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="732" y1="190" x2="732" y2="220" stroke="#ff7777" stroke-width="4"/>
+<line x1="732" y1="205" x2="770" y2="205" stroke="#ffffff" stroke-width="2"/>
+<rect x="770" y="188" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="800" y="211" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K3</text>
+<line x1="830" y1="205" x2="830" y2="260" stroke="#ffca70" stroke-width="3"/>
+<text x="715" y="181" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D3</text>
+<circle cx="910" cy="205" r="5" fill="#55c2ff"/>
+<line x1="910" y1="205" x2="945" y2="205" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="945,192 945,218 968,205" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="972" y1="190" x2="972" y2="220" stroke="#ff7777" stroke-width="4"/>
+<line x1="972" y1="205" x2="1010" y2="205" stroke="#ffffff" stroke-width="2"/>
+<rect x="1010" y="188" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="1040" y="211" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K4</text>
+<line x1="1070" y1="205" x2="1070" y2="260" stroke="#ffca70" stroke-width="3"/>
+<text x="955" y="181" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D4</text>
+<line x1="110" y1="415" x2="1050" y2="415" stroke="#ffca70" stroke-width="3"/>
+<text x="40" y="421" fill="#ffca70" font-family="Arial" font-size="18">R2 / GPA1</text>
+<circle cx="190" cy="360" r="5" fill="#55c2ff"/>
+<line x1="190" y1="360" x2="225" y2="360" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="225,347 225,373 248,360" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="252" y1="345" x2="252" y2="375" stroke="#ff7777" stroke-width="4"/>
+<line x1="252" y1="360" x2="290" y2="360" stroke="#ffffff" stroke-width="2"/>
+<rect x="290" y="343" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="320" y="366" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K5</text>
+<line x1="350" y1="360" x2="350" y2="415" stroke="#ffca70" stroke-width="3"/>
+<text x="235" y="336" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D5</text>
+<circle cx="430" cy="360" r="5" fill="#55c2ff"/>
+<line x1="430" y1="360" x2="465" y2="360" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="465,347 465,373 488,360" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="492" y1="345" x2="492" y2="375" stroke="#ff7777" stroke-width="4"/>
+<line x1="492" y1="360" x2="530" y2="360" stroke="#ffffff" stroke-width="2"/>
+<rect x="530" y="343" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="560" y="366" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K6</text>
+<line x1="590" y1="360" x2="590" y2="415" stroke="#ffca70" stroke-width="3"/>
+<text x="475" y="336" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D6</text>
+<circle cx="670" cy="360" r="5" fill="#55c2ff"/>
+<line x1="670" y1="360" x2="705" y2="360" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="705,347 705,373 728,360" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="732" y1="345" x2="732" y2="375" stroke="#ff7777" stroke-width="4"/>
+<line x1="732" y1="360" x2="770" y2="360" stroke="#ffffff" stroke-width="2"/>
+<rect x="770" y="343" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="800" y="366" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K7</text>
+<line x1="830" y1="360" x2="830" y2="415" stroke="#ffca70" stroke-width="3"/>
+<text x="715" y="336" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D7</text>
+<circle cx="910" cy="360" r="5" fill="#55c2ff"/>
+<line x1="910" y1="360" x2="945" y2="360" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="945,347 945,373 968,360" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="972" y1="345" x2="972" y2="375" stroke="#ff7777" stroke-width="4"/>
+<line x1="972" y1="360" x2="1010" y2="360" stroke="#ffffff" stroke-width="2"/>
+<rect x="1010" y="343" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="1040" y="366" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K8</text>
+<line x1="1070" y1="360" x2="1070" y2="415" stroke="#ffca70" stroke-width="3"/>
+<text x="955" y="336" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D8</text>
+<line x1="110" y1="570" x2="1050" y2="570" stroke="#ffca70" stroke-width="3"/>
+<text x="40" y="576" fill="#ffca70" font-family="Arial" font-size="18">R3 / GPA2</text>
+<circle cx="190" cy="515" r="5" fill="#55c2ff"/>
+<line x1="190" y1="515" x2="225" y2="515" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="225,502 225,528 248,515" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="252" y1="500" x2="252" y2="530" stroke="#ff7777" stroke-width="4"/>
+<line x1="252" y1="515" x2="290" y2="515" stroke="#ffffff" stroke-width="2"/>
+<rect x="290" y="498" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="320" y="521" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K9</text>
+<line x1="350" y1="515" x2="350" y2="570" stroke="#ffca70" stroke-width="3"/>
+<text x="235" y="491" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D9</text>
+<circle cx="430" cy="515" r="5" fill="#55c2ff"/>
+<line x1="430" y1="515" x2="465" y2="515" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="465,502 465,528 488,515" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="492" y1="500" x2="492" y2="530" stroke="#ff7777" stroke-width="4"/>
+<line x1="492" y1="515" x2="530" y2="515" stroke="#ffffff" stroke-width="2"/>
+<rect x="530" y="498" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="560" y="521" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K10</text>
+<line x1="590" y1="515" x2="590" y2="570" stroke="#ffca70" stroke-width="3"/>
+<text x="475" y="491" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D10</text>
+<circle cx="670" cy="515" r="5" fill="#55c2ff"/>
+<line x1="670" y1="515" x2="705" y2="515" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="705,502 705,528 728,515" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="732" y1="500" x2="732" y2="530" stroke="#ff7777" stroke-width="4"/>
+<line x1="732" y1="515" x2="770" y2="515" stroke="#ffffff" stroke-width="2"/>
+<rect x="770" y="498" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="800" y="521" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K11</text>
+<line x1="830" y1="515" x2="830" y2="570" stroke="#ffca70" stroke-width="3"/>
+<text x="715" y="491" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D11</text>
+<circle cx="910" cy="515" r="5" fill="#55c2ff"/>
+<line x1="910" y1="515" x2="945" y2="515" stroke="#55c2ff" stroke-width="3"/>
+<polygon points="945,502 945,528 968,515" fill="none" stroke="#ffffff" stroke-width="2"/>
+<line x1="972" y1="500" x2="972" y2="530" stroke="#ff7777" stroke-width="4"/>
+<line x1="972" y1="515" x2="1010" y2="515" stroke="#ffffff" stroke-width="2"/>
+<rect x="1010" y="498" width="60" height="34" rx="4" fill="#243746" stroke="#ffffff"/>
+<text x="1040" y="521" fill="#ffffff" text-anchor="middle" font-family="Arial" font-size="14">K12</text>
+<line x1="1070" y1="515" x2="1070" y2="570" stroke="#ffca70" stroke-width="3"/>
+<text x="955" y="491" fill="#b8c7d9" text-anchor="middle" font-family="Arial" font-size="13">D12</text>
+</svg>

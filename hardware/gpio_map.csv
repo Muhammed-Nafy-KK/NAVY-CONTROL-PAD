@@ -1,0 +1,18 @@
+Function,CrowPanel GPIO,Status
+LCD SCLK,10,Reserved
+LCD MOSI,11,Reserved
+LCD CS,9,Reserved
+LCD DC,3,Reserved
+LCD RESET,14,Reserved
+LCD Backlight,46,Reserved
+Touch SDA,6,Reserved
+Touch SCL,7,Reserved
+Touch INT,5,Reserved
+Touch RESET,13,Reserved
+Encoder A,45,Reserved
+Encoder B,42,Reserved
+Encoder Push,41,Reserved
+External I2C SDA,38,MCP23017 SDA
+External I2C SCL,39,MCP23017 SCL
+RGB LED,48,Reserved
+Power LED,40,Reserved

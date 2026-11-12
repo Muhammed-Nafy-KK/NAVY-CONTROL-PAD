@@ -1,0 +1,20 @@
+{
+  "board": {
+    "design_settings": {
+      "defaults": {
+        "board_outline_line_width": 0.05
+      }
+    }
+  },
+  "meta": {
+    "filename": "NAVY_CONTROL_PAD.kicad_pro",
+    "version": 1
+  },
+  "schematic": {
+    "legacy_lib_dir": "",
+    "legacy_lib_list": []
+  },
+  "text_variables": {
+    "PROJECT_NAME": "NAVY CONTROL PAD"
+  }
+}
